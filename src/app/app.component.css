@@ -1,0 +1,18 @@
+.toolbar {
+    padding-left: 0;
+}
+
+.toolbar .toolbar__icon-button {
+    height: 100%;
+    min-width: 24px;
+    padding: 0 15px;
+    border-color: transparent;
+}
+
+.toolbar .toolbar__title {
+    padding-left: 15px;
+}
+
+.toolbar .toolbar__spacer {
+    flex: 1 1 auto;
+}
